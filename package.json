@@ -1,0 +1,16 @@
+{
+  "name": "thermal-sensor-simulator",
+  "version": "1.0.0",
+  "description": "2D residential thermal-sensor simulation system with dual WebViews",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve .",
+    "dev": "npx live-server --port=3000"
+  },
+  "dependencies": {
+    "serve": "^14.2.1"
+  },
+  "keywords": ["simulation", "thermal", "sensor", "webview"],
+  "author": "Thermal Sensor Simulator",
+  "license": "MIT"
+}

@@ -2,6 +2,8 @@
 
 This project implements a dual WebView system for simulating thermal sensors in residential environments with movable characters and sensors.
 
+Remarks: This project is built in the beginning stage of the Final Year Project to perform a very simple "back-end simulation".
+
 ## Features
 
 - **Dual WebView Interface**:
